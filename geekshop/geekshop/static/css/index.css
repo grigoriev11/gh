@@ -1,0 +1,19 @@
+body {
+    фон :  url ( "../vendor/img/wallpaper.jpg" ) без повтора по центру вверху исправлено;
+    -webkit-background-size : обложка;
+    -moz-background-size : обложка;
+    размер фона : обложка;
+    -o-background-size : обложка;
+    padding-top :  56 пикселей ;
+}
+
+# start-Purchase-btn {
+    цвет фона :  # 23364e ;
+    цвет границы :  # 23364e ;
+    цвет : белый;
+}
+
+# start-Purchase-link {
+    текстовое оформление : нет;
+    цвет : белый;
+}
